@@ -1,5 +1,8 @@
 ### Installation Command:
 
+Fullstack E-commerce With nextjs - sanity - Stripe
+
+
 ```bash
 npm i stripe use-shopping-cart next-sanity @stripe/stripe-js @sanity/image-url --force
 ```
